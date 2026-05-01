@@ -1,0 +1,51 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown,regenerate_prompt,edit_instruction
+01_e429aab6.jpg,1,edit,100.0,75.0,100.0,87.5,8,7,1,0,,"Replace the visible brand name on the label/packaging with ""Amazon Elements"""
+03_fe1e14d8.jpg,3,edit,100.0,100.0,25.0,81.25,8,6,1,1,,"Add the text ""12 oz"" to the package, placed on the same package as the brand and product name"
+04_948abef1.jpg,4,keep,100.0,100.0,100.0,100.0,9,9,0,0,,
+05_56037ec2.jpg,5,edit,100.0,83.33,100.0,88.89,9,8,1,0,,"Add the full product text ""ARTIFICIALLY FLAVORED VANILLA WAFERS"" to the package display"
+100_aa505e37.jpg,100,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+10_b66efa34.jpg,10,edit,100.0,100.0,75.0,91.67,12,11,1,0,,"Add the phrase ""MADE FOR STEAK, CHICKEN & PORK"" to the label"
+13_144e45dd.jpg,13,edit,100.0,100.0,50.0,90.0,5,4,0,1,,Ensure the shoe has a fringed toe detail
+17_d20098db.jpg,17,edit,100.0,83.33,50.0,85.0,10,8,1,1,,Update the label text to include the exact product description: 'Organic Unfiltered Apple Cider Vinegar'
+18_3cbf6b2b.jpg,18,keep,100.0,100.0,,100.0,5,5,0,0,,
+19_8b5173b4.jpg,19,edit,100.0,66.67,,87.5,8,7,1,0,,Add in-ear tips or nozzles to each earbud
+22_9735499f.jpg,22,edit,100.0,100.0,50.0,92.86,14,13,1,0,,"Change the label text to show ""NET WT 5 LB"""
+23_ae67efca.jpg,23,edit,100.0,100.0,37.5,80.77,13,10,2,1,,"Remove the pink trim from the visible bib edge so it is white. Ensure the visible text includes the brand name ""Moon and Back""; if needed, adjust the text placement or visibility so it can be read"
+24_3ae9d032.jpg,24,keep,91.67,100.0,,96.67,15,14,0,1,,
+25_8fecd6e2.jpg,25,keep,100.0,100.0,100.0,100.0,7,7,0,0,,
+28_ff32ca95.jpg,28,edit,64.29,100.0,100.0,84.38,16,13,2,1,,Show exactly two matching bar/island stools instead of one
+30_74f41eea.jpg,30,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+31_a5a9afde.jpg,31,keep,100.0,100.0,100.0,100.0,5,5,0,0,,
+32_f344ff73.jpg,32,keep,100.0,100.0,,100.0,7,7,0,0,,
+33_23c315fa.jpg,33,edit,100.0,66.67,100.0,85.71,7,6,1,0,,"Change the product packaging text to read ""Organic Peanut Sauce"""
+36_b2509e9d.jpg,36,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+38_0d51371f.jpg,38,keep,100.0,,100.0,100.0,6,6,0,0,,
+42_5970a1cc.jpg,42,edit,100.0,66.67,0.0,77.78,9,7,2,0,,"Change the shredder so it has a long narrow paper-feed slot, and add a separate visible credit card/CD feed slot or feed area"
+43_8d2eca6f.jpg,43,edit,100.0,90.0,,90.91,11,9,0,2,,Add a visible 'Gluten Free' label and '60 Gummies' text on the packaging
+46_cadac533.jpg,46,edit,87.5,100.0,100.0,94.44,9,8,0,1,,Show the laundry bag as foldable/collapsible rather than rigid
+49_2e65cae9.jpg,49,keep,100.0,100.0,,100.0,5,5,0,0,,
+51_ca467cdf.jpg,51,keep,100.0,100.0,50.0,96.43,14,13,0,1,,
+54_1bc585aa.jpg,54,keep,100.0,100.0,100.0,100.0,11,11,0,0,,
+56_521925fe.jpg,56,edit,100.0,75.0,100.0,84.62,13,10,1,2,,Add a toe post between the big toe and second toe
+58_64ea51f9.jpg,58,edit,83.33,83.33,100.0,86.36,11,9,1,1,,Change the shoe sole to be flat. Keep the depicted footwear otherwise unchanged
+60_32c46bfd.jpg,60,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+65_605b6539.jpg,65,keep,100.0,100.0,100.0,100.0,14,14,0,0,,
+69_04350320.jpg,69,edit,100.0,90.0,,93.75,8,7,0,1,,Ensure the cross support members meet flush at the joint without any obvious protruding or raised offset
+70_618f71c4.jpg,70,keep,100.0,100.0,100.0,100.0,17,17,0,0,,
+72_fc3adc90.jpg,72,keep,100.0,100.0,100.0,100.0,13,13,0,0,,
+74_fac388ad.jpg,74,keep,100.0,100.0,100.0,100.0,5,5,0,0,,
+75_ee047b4f.jpg,75,edit,100.0,71.43,,80.0,10,8,2,0,,"Change the product text to show 'Jumbo Baking Chips' on the same package with '365 Everyday Value', 'Milk Chocolate', and '10 oz'"
+80_d42d1dcd.jpg,80,keep,87.5,100.0,100.0,95.45,11,10,0,1,,
+81_0c0cc953.jpg,81,keep,100.0,100.0,100.0,100.0,15,15,0,0,,
+82_a2da1a93.jpg,82,keep,100.0,100.0,100.0,100.0,6,6,0,0,,
+84_479d2a69.jpg,84,edit,100.0,92.86,62.5,84.62,13,9,0,4,,"Add visible text for the brand name Belini and the product details BS147, 3 UK, 36 EU, and BS147TAN3"
+85_5027629e.jpg,85,keep,100.0,100.0,,100.0,15,15,0,0,,
+86_734102ea.jpg,86,keep,100.0,100.0,,100.0,6,6,0,0,,
+87_90cd9cf3.jpg,87,keep,100.0,90.0,,95.0,10,9,0,1,,
+90_cb9c61e2.jpg,90,edit,100.0,90.0,50.0,88.89,9,7,0,2,,"Make the package text clearly show AmazonBasics, Air Freshener Refill, Lavender, 1-Gallon, and 144-Pack"
+92_59bc9ed2.jpg,92,keep,100.0,100.0,100.0,100.0,13,13,0,0,,
+93_9f1b7d9b.jpg,93,keep,100.0,100.0,,100.0,11,11,0,0,,
+94_fdd2c1f3.jpg,94,edit,100.0,85.0,66.67,83.33,15,11,1,3,,"Add the Amazon Prime logo to the product packaging. Make the text ""Black Pu'erh Tea"", ""Full-Leaf Bags"", and ""15 Count"" clearly readable on the packaging"
+96_e6e22f77.jpg,96,edit,66.67,100.0,100.0,85.71,7,6,1,0,,Change the main body/frame color to matte black; keep the black metal parts consistent
+98_c4530e6e.jpg,98,edit,100.0,100.0,0.0,87.5,8,7,1,0,,Make the gemstones encircle the full circumference of the band
+99_9fe805fd.jpg,99,edit,100.0,66.67,100.0,87.5,8,7,1,0,,"Change the packaging count text from ""60 vegan capsules"" to ""60 ct"""

@@ -1,0 +1,72 @@
+[
+  {
+    "index": "1",
+    "prompt": "Japanese Stop Sign Used From 1960 to 1963",
+    "augmented_prompt": "Japanese Stop Sign Used From 1960 to 1963",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "2",
+    "prompt": "Deluxe taxi in South Korea",
+    "augmented_prompt": "Deluxe taxi in South Korea",
+    "failure_mode": "Short Text Specific",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes."
+  },
+  {
+    "index": "3",
+    "prompt": "A current London police officer uniform",
+    "augmented_prompt": "A current London police officer uniform",
+    "failure_mode": "Short Text Specific",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes."
+  },
+  {
+    "index": "4",
+    "prompt": "A current front US 100 dollar bill",
+    "augmented_prompt": "A current front US 100 dollar bill",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "5",
+    "prompt": "A Swiss Guard uniform at the Vatican in 2005",
+    "augmented_prompt": "A Swiss Guard uniform at the Vatican in 2005",
+    "failure_mode": "Long text specific",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes."
+  },
+  {
+    "index": "6",
+    "prompt": "A current UK passport cover",
+    "augmented_prompt": "A current UK passport cover",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "7",
+    "prompt": "A current pedestrian crossing sign in Germany",
+    "augmented_prompt": "A current pedestrian crossing sign in Germany",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "8",
+    "prompt": "A current front 50 euro banknote",
+    "augmented_prompt": "A current front 50 euro banknote",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "9",
+    "prompt": "The front cover of a South Korean passport issued after 2021",
+    "augmented_prompt": "The front cover of a South Korean passport issued after 2021",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "10",
+    "prompt": "A current German Umweltplakette (environmental zone sticker) on a car windshield",
+    "augmented_prompt": "A current German Umweltplakette (environmental zone sticker) on a car windshield",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  }
+]

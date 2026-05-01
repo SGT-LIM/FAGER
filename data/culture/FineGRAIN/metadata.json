@@ -1,0 +1,146 @@
+{
+  "real": [
+    {
+      "id": "1",
+      "index": "1",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/1.jpg",
+      "prompt": "Japanese Stop Sign Used From 1960 to 1963",
+      "status": "success"
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/10.jpg",
+      "prompt": "A current German Umweltplakette (environmental zone sticker) on a car windshield",
+      "status": "success"
+    },
+    {
+      "id": "2",
+      "index": "2",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/2.jpg",
+      "prompt": "Deluxe taxi in South Korea",
+      "status": "success"
+    },
+    {
+      "id": "3",
+      "index": "3",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/3.jpg",
+      "prompt": "A current London police officer uniform",
+      "status": "success"
+    },
+    {
+      "id": "4",
+      "index": "4",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/4.jpg",
+      "prompt": "A current front US 100 dollar bill",
+      "status": "success"
+    },
+    {
+      "id": "5",
+      "index": "5",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/5.jpg",
+      "prompt": "A Swiss Guard uniform at the Vatican in 2005",
+      "status": "success"
+    },
+    {
+      "id": "6",
+      "index": "6",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/6.jpg",
+      "prompt": "A current UK passport cover",
+      "status": "success"
+    },
+    {
+      "id": "7",
+      "index": "7",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/7.jpg",
+      "prompt": "A current pedestrian crossing sign in Germany",
+      "status": "success"
+    },
+    {
+      "id": "8",
+      "index": "8",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/8.jpg",
+      "prompt": "A current front 50 euro banknote",
+      "status": "success"
+    },
+    {
+      "id": "9",
+      "index": "9",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/9.jpg",
+      "prompt": "The front cover of a South Korean passport issued after 2021",
+      "status": "success"
+    }
+  ],
+  "fake": [
+    {
+      "id": "1",
+      "index": "1",
+      "image_path": "/home/coder/passenger/FLUX2/culture/01_japanese_stop_sign_used_from_1960_to_1963.png",
+      "prompt": "Japanese Stop Sign Used From 1960 to 1963",
+      "status": "success"
+    },
+    {
+      "id": "2",
+      "index": "2",
+      "image_path": "/home/coder/passenger/FLUX2/culture/02_deluxe_taxi_in_south_korea.png",
+      "prompt": "Deluxe taxi in South Korea",
+      "status": "success"
+    },
+    {
+      "id": "3",
+      "index": "3",
+      "image_path": "/home/coder/passenger/FLUX2/culture/03_a_current_london_police_officer_uniform.png",
+      "prompt": "A current London police officer uniform",
+      "status": "success"
+    },
+    {
+      "id": "4",
+      "index": "4",
+      "image_path": "/home/coder/passenger/FLUX2/culture/04_a_current_front_us_100_dollar_bill.png",
+      "prompt": "A current front US 100 dollar bill",
+      "status": "success"
+    },
+    {
+      "id": "5",
+      "index": "5",
+      "image_path": "/home/coder/passenger/FLUX2/culture/05_a_swiss_guard_uniform_at_the_vatican_in_2005.png",
+      "prompt": "A Swiss Guard uniform at the Vatican in 2005",
+      "status": "success"
+    },
+    {
+      "id": "6",
+      "index": "6",
+      "image_path": "/home/coder/passenger/FLUX2/culture/06_a_current_uk_passport_cover.png",
+      "prompt": "A current UK passport cover",
+      "status": "success"
+    },
+    {
+      "id": "7",
+      "index": "7",
+      "image_path": "/home/coder/passenger/FLUX2/culture/07_a_current_pedestrian_crossing_sign_in_germany.png",
+      "prompt": "A current pedestrian crossing sign in Germany",
+      "status": "success"
+    },
+    {
+      "id": "8",
+      "index": "8",
+      "image_path": "/home/coder/passenger/FLUX2/culture/08_a_current_front_50_euro_banknote.png",
+      "prompt": "A current front 50 euro banknote",
+      "status": "success"
+    },
+    {
+      "id": "9",
+      "index": "9",
+      "image_path": "/home/coder/passenger/FLUX2/culture/09_the_front_cover_of_a_south_korean_passport_issued_after_2021.png",
+      "prompt": "The front cover of a South Korean passport issued after 2021",
+      "status": "success"
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "image_path": "/home/coder/passenger/FLUX2/culture/10_a_current_german_umweltplakette_environmental_zone_sticker_on_a_car_windshield.png",
+      "prompt": "A current German Umweltplakette (environmental zone sticker) on a car windshield",
+      "status": "success"
+    }
+  ]
+}

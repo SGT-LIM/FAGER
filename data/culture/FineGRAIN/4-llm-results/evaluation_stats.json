@@ -1,0 +1,13 @@
+{
+    "total_processed": 20,
+    "total_errors": 0,
+    "model_times": {
+        "real": 25.957048177719116,
+        "fake": 27.106218338012695
+    },
+    "model_counts": {
+        "real": 10,
+        "fake": 10
+    },
+    "total_time": 53.06326651573181
+}

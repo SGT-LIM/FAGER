@@ -1,0 +1,51 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown,regenerate_prompt,edit_instruction
+1.jpg,1,edit,100.0,100.0,50.0,87.5,8,7,1,0,,Change the label so it is white with blue and black text
+10.jpg,10,edit,100.0,100.0,25.0,75.0,12,9,3,0,,"Change the label to include the phrase ""MADE FOR STEAK, CHICKEN & PORK"". Set the label background to light blue, and add red and white borders"
+100.jpg,100,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+13.jpg,13,edit,100.0,100.0,0.0,80.0,5,4,1,0,,Add a fringed toe detail to the shoe
+17.jpg,17,keep,100.0,100.0,100.0,100.0,10,10,0,0,,
+18.jpg,18,keep,100.0,100.0,,100.0,5,5,0,0,,
+19.jpg,19,keep,100.0,100.0,,100.0,8,8,0,0,,
+22.jpg,22,edit,60.0,14.29,50.0,35.71,14,3,7,4,,"Place the red potatoes in a single clear plastic retail bag with a white tie, and add a visible green-and-white label showing Fresh, Red Potatoes, and 5 lb"
+23.jpg,23,edit,75.0,80.0,75.0,76.92,13,9,2,2,,"Change the bib set to predominantly light pink blush tones, with one solid pink bib, two pink-and-white striped bibs, one solid white bib, and one white bib with pink polka dots. Ensure the brand name Moon and Back and the word Organic are visible in the text"
+24.jpg,24,keep,100.0,100.0,,100.0,15,15,0,0,,
+25.jpg,25,keep,100.0,100.0,100.0,100.0,7,7,0,0,,
+28.jpg,28,edit,100.0,100.0,50.0,93.75,16,15,1,0,,Remove tufted upholstery from the seat so it is smooth
+3.jpg,3,edit,100.0,75.0,100.0,87.5,8,7,1,0,,"Add the word ""Coffee"" to the packaging text while keeping ""Organic"" and ""Pumpkin Spice"" present"
+30.jpg,30,edit,100.0,100.0,50.0,90.0,10,9,1,0,,Add a smaller heart cutout inside the center heart
+31.jpg,31,keep,100.0,100.0,100.0,100.0,5,5,0,0,,
+32.jpg,32,keep,100.0,100.0,,100.0,7,7,0,0,,
+33.jpg,33,edit,66.67,100.0,0.0,71.43,7,5,2,0,,"Change the package shape from a bottle to a wide jar. Correct the brand text so it reads ""365"" instead of ""665"""
+36.jpg,36,edit,100.0,100.0,0.0,90.0,10,9,1,0,,Add a small bow attached to the center of the hanger
+38.jpg,38,keep,100.0,,100.0,100.0,6,6,0,0,,
+4.jpg,4,edit,33.33,100.0,75.0,66.67,9,5,2,2,,"Change the bottle to amber-colored and give it a black cap. Ensure the label includes ""50 Billion CFU"" and ""With Lacto & Bifido Probiotic Cultures"""
+42.jpg,42,keep,100.0,100.0,100.0,100.0,9,9,0,0,,
+43.jpg,43,edit,100.0,80.0,,81.82,11,8,1,2,,"Change the bottle cap color to purple. Ensure the packaging clearly shows a ""Gluten Free"" label and the text ""KIDS BLACK ELDERBERRY"""
+46.jpg,46,edit,87.5,66.67,0.0,61.11,9,5,3,1,,"Remove the drawstring top and make the bag open at the top with handles. Change the front white text to read ""wash me"" and add a white smiley face on the bag"
+49.jpg,49,keep,100.0,100.0,,100.0,5,5,0,0,,
+5.jpg,5,edit,100.0,33.33,0.0,44.44,9,4,5,0,,"Change the package text to ""Vanilla Wafers"" and ""ARTIFICIALLY FLAVORED VANILLA WAFERS"". Replace the light blue and white package with a white main background and black top section. Change the logo to a blue circular HAPPY BELLY logo with white text. Set the net weight to 12 oz (12 Ounce)"
+51.jpg,51,keep,100.0,100.0,100.0,100.0,14,14,0,0,,
+54.jpg,54,keep,100.0,100.0,100.0,100.0,11,11,0,0,,
+56.jpg,56,edit,100.0,62.5,0.0,61.54,13,7,4,2,,Remove the ankle strap with metal buckle and the toe post. Make the sole flat and add visible stitching along the sole edge
+58.jpg,58,edit,100.0,50.0,100.0,72.73,11,8,3,0,,"Add laces to both shoes, make the soles flat, and change the upper to a multicolored zigzag pattern"
+60.jpg,60,edit,100.0,80.0,0.0,60.0,10,5,3,2,,Change the bottle cap to black. Change the label background to an orange and yellow gradient. Add a tree silhouette on the label. Make sure the packaging shows 60 ct
+65.jpg,65,edit,66.67,56.25,66.67,60.71,14,8,5,1,,Change the package from a glass jar to a cylindrical can. Replace the brand text '565' with '365'. Add a blue box with the word 'QUARTERED' on the label. Make '365' and 'EVERYDAY VALUE' appear together as the brand/label text. Change the bottom label stripe to blue
+69.jpg,69,edit,100.0,90.0,,93.75,8,7,0,1,,Ensure the cross support appears flush-mounted where the members meet
+70.jpg,70,keep,100.0,100.0,100.0,100.0,17,17,0,0,,
+72.jpg,72,edit,80.0,100.0,60.0,76.92,13,10,3,0,,"Make the package clear and green rather than gray, place the brand name 'vedāka' horizontally, and add a green square logo with a white symbol on the lower left of the bag"
+74.jpg,74,keep,100.0,100.0,100.0,100.0,5,5,0,0,,
+75.jpg,75,edit,100.0,71.43,,80.0,10,8,2,0,,"Change the brand text on the package to exactly read ""365 Everyday Value"" and ensure it appears on the same package with ""Milk Chocolate"", ""Jumbo Baking Chips"", and ""10 oz"""
+80.jpg,80,edit,100.0,100.0,25.0,72.73,11,8,3,0,,"Add a fold-over flap closure, attach a metallic chain shoulder strap, and add a textured lower section to the clutch"
+81.jpg,81,keep,100.0,94.44,100.0,96.67,15,14,0,1,,
+82.jpg,82,edit,100.0,100.0,50.0,83.33,6,5,1,0,,Change the visible surface to have a quilted pattern with rounded stitching sections
+84.jpg,84,edit,100.0,78.57,37.5,69.23,13,7,2,4,,Change the sole to white. Make the strap have a woven texture. Keep the branding and size/code text visible if present
+85.jpg,85,keep,100.0,100.0,,100.0,15,15,0,0,,
+86.jpg,86,keep,100.0,100.0,,100.0,6,6,0,0,,
+87.jpg,87,keep,100.0,100.0,,100.0,10,10,0,0,,
+90.jpg,90,edit,66.67,80.0,100.0,77.78,9,7,2,0,,"Make the container purple with a white cap, and change the front label to purple with a black logo block"
+92.jpg,92,edit,66.67,72.22,100.0,73.08,13,9,3,1,,"Change the lid to white, and replace the product name text with ""Organic Apple Sauce"" so that ""365 Everyday Value"", ""Organic Apple Sauce"", ""Unsweetened"", and ""24 oz"" all appear on the same package"
+93.jpg,93,keep,100.0,100.0,,100.0,11,11,0,0,,
+94.jpg,94,edit,100.0,65.0,33.33,63.33,15,8,4,3,,"Change the packaging text to show ""Pu'erh Pep"" and ""Black Pu'erh Tea"". Add a visible Amazon Prime logo and replace the top green circular graphic with a green teapot-shaped graphic. Make the count text clearly show ""15 Full Leaf Sachets"" and ""15 Count"""
+96.jpg,96,keep,100.0,100.0,100.0,100.0,7,7,0,0,,
+98.jpg,98,edit,100.0,100.0,0.0,87.5,8,7,1,0,,Make the gemstones encircle the full circumference of the band in an eternity-style setting
+99.jpg,99,edit,100.0,66.67,100.0,87.5,8,7,1,0,,"Change the packaging count text to ""60 ct"""

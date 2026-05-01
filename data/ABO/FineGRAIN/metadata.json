@@ -1,0 +1,286 @@
+{
+  "real": [
+    {
+      "id": "1",
+      "index": "1",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/01_e429aab6.jpg",
+      "prompt": "Amazon Elements Melatonin 3mg, 260 Tablets",
+      "status": "success"
+    },
+    {
+      "id": "2",
+      "index": "2",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/02_81693ab9.jpg",
+      "prompt": "AmazonBasics Kids Ear-Protection Safety Noise Earmuffs, Yellow",
+      "status": "success"
+    },
+    {
+      "id": "3",
+      "index": "3",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/03_fe1e14d8.jpg",
+      "prompt": "365 Everyday Value, Organic Pumpkin Spice Coffee, 12 oz",
+      "status": "success"
+    },
+    {
+      "id": "4",
+      "index": "4",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/04_948abef1.jpg",
+      "prompt": "WHOLE FOODS MARKET Women's Care Probiotic, 30 CT",
+      "status": "success"
+    },
+    {
+      "id": "5",
+      "index": "5",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/05_56037ec2.jpg",
+      "prompt": "Amazon Brand - Happy Belly Vanilla Wafers, 12 Ounce",
+      "status": "success"
+    },
+    {
+      "id": "6",
+      "index": "6",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/06_f4227187.jpg",
+      "prompt": "find. Men's Um1527 Chukka Boots, Brown Tan, Womens 8",
+      "status": "success"
+    },
+    {
+      "id": "7",
+      "index": "7",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/07_87c11ce5.jpg",
+      "prompt": "UMI By Amazon 100% Organic Cotton 1 Fitted Sheet Only, 300 Thread Count Soft Sateen Weave GOTS Certified with 30cm deep Pockets Size -Super King, Color- Silver",
+      "status": "success"
+    },
+    {
+      "id": "8",
+      "index": "8",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/08_8310ab6b.jpg",
+      "prompt": "Amazon Brand - Symbol Men's Derby leather formal shoes - 10 UK/India (44 EU)(AZ-WS-114A)",
+      "status": "success"
+    },
+    {
+      "id": "9",
+      "index": "9",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/09_eea6cb50.jpg",
+      "prompt": "Amazon Collection (Find) Platinum Plated Freshwater Cultured Pearl suta-ringusiruba-suwarohusuki-zirukonia pa-ruassya-kattohu-pupiasu (1 1/2 cttw)",
+      "status": "success"
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/10_b66efa34.jpg",
+      "prompt": "365 EVERYDAY VALUE Toronto Steak Dry Rub, 5 OZ",
+      "status": "success"
+    },
+    {
+      "id": "11",
+      "index": "11",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/11_c1ab9976.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "12",
+      "index": "12",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/12_7750a4d8.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "13",
+      "index": "13",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/13_144e45dd.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "14",
+      "index": "14",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/14_d504d254.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "15",
+      "index": "15",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/15_20965a65.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "16",
+      "index": "16",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/16_0d82cb87.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "17",
+      "index": "17",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/17_d20098db.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "18",
+      "index": "18",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/18_3cbf6b2b.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "19",
+      "index": "19",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/19_8b5173b4.jpg",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "20",
+      "index": "20",
+      "image_path": "/home/coder/passenger/data/ABO/selected_images/20_c7f89245.jpg",
+      "prompt": "",
+      "status": "success"
+    }
+  ],
+  "fake": [
+    {
+      "id": "1",
+      "index": "1",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/01_amazon_elements_melatonin_3mg_260_tablets.png",
+      "prompt": "Amazon Elements Melatonin 3mg, 260 Tablets",
+      "status": "success"
+    },
+    {
+      "id": "2",
+      "index": "2",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/02_amazonbasics_kids_ear_protection_safety_noise_earmuffs_yellow.png",
+      "prompt": "AmazonBasics Kids Ear-Protection Safety Noise Earmuffs, Yellow",
+      "status": "success"
+    },
+    {
+      "id": "3",
+      "index": "3",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/03_365_everyday_value_organic_pumpkin_spice_coffee_12_oz.png",
+      "prompt": "365 Everyday Value, Organic Pumpkin Spice Coffee, 12 oz",
+      "status": "success"
+    },
+    {
+      "id": "4",
+      "index": "4",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/04_whole_foods_market_womens_care_probiotic_30_ct.png",
+      "prompt": "WHOLE FOODS MARKET Women's Care Probiotic, 30 CT",
+      "status": "success"
+    },
+    {
+      "id": "5",
+      "index": "5",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/05_amazon_brand_happy_belly_vanilla_wafers_12_ounce.png",
+      "prompt": "Amazon Brand - Happy Belly Vanilla Wafers, 12 Ounce",
+      "status": "success"
+    },
+    {
+      "id": "6",
+      "index": "6",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/06_mens_um1527_chukka_boots_brown_tan_womens_8.png",
+      "prompt": "find. Men's Um1527 Chukka Boots, Brown Tan, Womens 8",
+      "status": "success"
+    },
+    {
+      "id": "7",
+      "index": "7",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/07_umi_by_amazon_100_organic_cotton_1_fitted_sheet_only_300_thread_count_soft_satee.png",
+      "prompt": "UMI By Amazon 100% Organic Cotton 1 Fitted Sheet Only, 300 Thread Count Soft Sateen Weave GOTS Certified with 30cm deep Pockets Size -Super King, Color- Silver",
+      "status": "success"
+    },
+    {
+      "id": "8",
+      "index": "8",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/08_amazon_brand_symbol_mens_derby_leather_formal_shoes_10_ukindia_44_euaz_ws_114a.png",
+      "prompt": "Amazon Brand - Symbol Men's Derby leather formal shoes - 10 UK/India (44 EU)(AZ-WS-114A)",
+      "status": "success"
+    },
+    {
+      "id": "9",
+      "index": "9",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/09_amazon_collection_find_platinum_plated_freshwater_cultured_pearl_suta_ringusirub.png",
+      "prompt": "Amazon Collection (Find) Platinum Plated Freshwater Cultured Pearl suta-ringusiruba-suwarohusuki-zirukonia pa-ruassya-kattohu-pupiasu (1 1/2 cttw)",
+      "status": "success"
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/10_365_everyday_value_toronto_steak_dry_rub_5_oz.png",
+      "prompt": "365 EVERYDAY VALUE Toronto Steak Dry Rub, 5 OZ",
+      "status": "success"
+    },
+    {
+      "id": "11",
+      "index": "11",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/11_amazon_brand_stone_beam_industry_french_metal_queen_bed_with_headboard_635w_blac.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "12",
+      "index": "12",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/12_whole_foods_market_mediterranean_herb_infused_greek_extra_virgin_olive_oil_845_f.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "13",
+      "index": "13",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/13_womens_beau_blue_5_uk.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "14",
+      "index": "14",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/14_umi_double_fitted_sheet_100_cotton_300_thread_count_double_fitted_sheets_scottis.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "15",
+      "index": "15",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/15_amazon_collection_amazon_collection_platinum_plated_sterling_silver_clear_prince.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "16",
+      "index": "16",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/16_eono_by_amazon_ab_wheel_roller_2_wheel_settings_abdominal_trainer_with_thick_kne.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "17",
+      "index": "17",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/17_365_everyday_value_organic_unfiltered_apple_cider_vinegar_32_fl_oz.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "18",
+      "index": "18",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/18_amazonbasics_patio_dining_chair_cover_2_pack_grey.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "19",
+      "index": "19",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/19_amazonbasics_in_ear_headphones_with_mic_green.png",
+      "prompt": "",
+      "status": "success"
+    },
+    {
+      "id": "20",
+      "index": "20",
+      "image_path": "/home/coder/passenger/FLUX2/ABO/20_amazonbasics_7_piece_bed_in_a_bag_fullqueen_navy_simple_plaid_renewed.png",
+      "prompt": "",
+      "status": "success"
+    }
+  ]
+}

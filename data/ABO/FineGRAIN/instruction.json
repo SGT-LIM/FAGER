@@ -1,0 +1,72 @@
+[
+  {
+    "index": "1",
+    "prompt": "Amazon Elements Melatonin 3mg, 260 Tablets",
+    "augmented_prompt": "Amazon Elements Melatonin 3mg, 260 Tablets",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "2",
+    "prompt": "AmazonBasics Kids Ear-Protection Safety Noise Earmuffs, Yellow",
+    "augmented_prompt": "AmazonBasics Kids Ear-Protection Safety Noise Earmuffs, Yellow",
+    "failure_mode": "Colour attribute binding",
+    "instruction_prompt": "What color is AmazonBasics Kids Ear-Protection Safety Noise Earmuffs? What color is AmazonBasics Kids Ear-Protection Safety Noise Earmuffs? What color is AmazonBasics Kids Ear-Protection Safety Noise Earmuffs?"
+  },
+  {
+    "index": "3",
+    "prompt": "365 Everyday Value, Organic Pumpkin Spice Coffee, 12 oz",
+    "augmented_prompt": "365 Everyday Value, Organic Pumpkin Spice Coffee, 12 oz",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "4",
+    "prompt": "WHOLE FOODS MARKET Women's Care Probiotic, 30 CT",
+    "augmented_prompt": "WHOLE FOODS MARKET Women's Care Probiotic, 30 CT",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "5",
+    "prompt": "Amazon Brand - Happy Belly Vanilla Wafers, 12 Ounce",
+    "augmented_prompt": "Amazon Brand - Happy Belly Vanilla Wafers, 12 Ounce",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "6",
+    "prompt": "find. Men's Um1527 Chukka Boots, Brown Tan, Womens 8",
+    "augmented_prompt": "find. Men's Um1527 Chukka Boots, Brown Tan, Womens 8",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "7",
+    "prompt": "UMI By Amazon 100% Organic Cotton 1 Fitted Sheet Only, 300 Thread Count Soft Sateen Weave GOTS Certified with 30cm deep Pockets Size -Super King, Color- Silver",
+    "augmented_prompt": "UMI By Amazon 100% Organic Cotton 1 Fitted Sheet Only, 300 Thread Count Soft Sateen Weave GOTS Certified with 30cm deep Pockets Size -Super King, Color- Silver",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes: \"UMI By Amazon 100% Organic Cotton 1 Fitted Sheet Only, 300 Thread Count Soft Sateen Weave GOTS Certified with 30cm deep Pockets Size -Super King, Color- Silver\". And a short description of the scene."
+  },
+  {
+    "index": "8",
+    "prompt": "Amazon Brand - Symbol Men's Derby leather formal shoes - 10 UK/India (44 EU)(AZ-WS-114A)",
+    "augmented_prompt": "Amazon Brand - Symbol Men's Derby leather formal shoes - 10 UK/India (44 EU)(AZ-WS-114A)",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in \"[text in the image]\" quotes. And a short description of the scene."
+  },
+  {
+    "index": "9",
+    "prompt": "Amazon Collection (Find) Platinum Plated Freshwater Cultured Pearl suta-ringusiruba-suwarohusuki-zirukonia pa-ruassya-kattohu-pupiasu (1 1/2 cttw)",
+    "augmented_prompt": "Amazon Collection (Find) Platinum Plated Freshwater Cultured Pearl suta-ringusiruba-suwarohusuki-zirukonia pa-ruassya-kattohu-pupiasu (1 1/2 cttw)",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  },
+  {
+    "index": "10",
+    "prompt": "365 EVERYDAY VALUE Toronto Steak Dry Rub, 5 OZ",
+    "augmented_prompt": "365 EVERYDAY VALUE Toronto Steak Dry Rub, 5 OZ",
+    "failure_mode": "Text-based",
+    "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene."
+  }
+]

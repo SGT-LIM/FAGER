@@ -1,0 +1,11 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown
+01_amazon_elements_melatonin_3mg_260_tablets.png,1,edit,100.0,75.0,,83.33,6,5,1,0
+02_amazonbasics_kids_ear_protection_safety_noise_earmuffs_yellow.png,2,edit,93.75,100.0,0.0,90.0,15,13,1,1
+03_365_everyday_value_organic_pumpkin_spice_coffee_12_oz.png,3,regenerate,50.0,,,50.0,2,1,1,0
+04_whole_foods_market_womens_care_probiotic_30_ct.png,4,edit,100.0,50.0,,66.67,6,4,2,0
+05_amazon_brand_happy_belly_vanilla_wafers_12_ounce.png,5,edit,83.33,30.0,0.0,44.44,9,3,4,2
+06_find_mens_um1527_chukka_boots_brown_tan_womens_8.png,6,edit,80.0,12.5,,38.46,13,5,8,0
+07_umi_by_amazon_100_organic_cotton_1_fitted_sheet_only_300_thread_count_soft_satee.png,7,edit,100.0,50.0,50.0,60.0,20,6,2,12
+08_amazon_brand_symbol_mens_derby_leather_formal_shoes_10_ukindia_44_euaz_ws_114a.png,8,keep,100.0,100.0,,100.0,9,9,0,0
+09_amazon_collection_find_platinum_plated_freshwater_cultured_pearl_suta_ringusirub.png,9,regenerate,0.0,,,0.0,2,0,2,0
+10_365_everyday_value_toronto_steak_dry_rub_5_oz.png,10,keep,100.0,100.0,100.0,100.0,9,9,0,0

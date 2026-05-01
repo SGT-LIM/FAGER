@@ -1,0 +1,11 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown
+01_japanese_stop_sign_used_from_1960_to_1963.png,1,edit,75.0,62.5,0.0,61.11,9,5,3,1
+02_deluxe_taxi_in_south_korea.png,2,keep,87.5,90.0,,88.89,9,7,0,2
+03_a_current_london_police_officer_uniform.png,3,keep,50.0,66.67,,58.33,6,1,0,5
+04_a_current_front_us_100_dollar_bill.png,4,edit,60.0,37.5,41.67,42.59,27,9,13,5
+05_a_swiss_guard_uniform_at_the_vatican_in_2005.png,5,keep,62.5,70.0,100.0,70.0,10,4,0,6
+06_a_current_uk_passport_cover.png,6,edit,87.5,79.17,,81.25,16,12,2,2
+07_a_current_pedestrian_crossing_sign_in_germany.png,7,edit,62.5,26.92,,35.29,17,3,8,6
+08_a_current_front_50_euro_banknote.png,8,edit,92.86,95.0,50.0,87.5,20,16,1,3
+09_the_front_cover_of_a_south_korean_passport_issued_after_2021.png,9,edit,87.5,55.0,0.0,50.0,18,8,8,2
+10_a_current_german_umweltplakette_environmental_zone_sticker_on_a_car_windshield.png,10,edit,75.0,71.43,0.0,66.67,12,7,3,2

@@ -1,0 +1,124 @@
+{
+  "real": [
+    {
+      "id": "1",
+      "index": "1",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/1.jpg",
+      "prompt": "Japanese Stop Sign Used From 1960 to 1963",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"\u4e00\u6642  \n\u6b62\u307e\u308c  \nSTOP  \n1960 - 1963  \nexpress  \nLEGAL FUNDING\"\n\nA red octagonal stop sign with Japanese text and \u201cSTOP,\u201d shown on a light green background with the years 1960\u20131963 and an \u201cexpress legal funding\u201d logo.",
+      "caption_status": "success",
+      "caption_time": 2.4726884365081787,
+      "image_md5": "f99f15d48d1936ee2edc0848b0e072b3"
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/10.jpg",
+      "prompt": "A current German Umweltplakette (environmental zone sticker) on a car windshield",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"4  \nR-355-G  \nUmweltplakette\"  \n\nA green circular emissions sticker with a large \u201c4\u201d is affixed to a car\u2019s windshield.",
+      "caption_status": "success",
+      "caption_time": 2.010010242462158,
+      "image_md5": "890c129f4348daaacf7e9e545ba3d2b9"
+    },
+    {
+      "id": "2",
+      "index": "2",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/2.jpg",
+      "prompt": "Deluxe taxi in South Korea",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes.",
+      "molmo_generated_caption": "\"\ubaa8\ubc94\ud0dd\uc2dc\"",
+      "caption_status": "success",
+      "caption_time": 1.5953938961029053,
+      "image_md5": "c630789baabcb10f56c7eaf2f7d53f76"
+    },
+    {
+      "id": "3",
+      "index": "3",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/3.jpg",
+      "prompt": "A current London police officer uniform",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes.",
+      "molmo_generated_caption": "\"glass\nMETROPOLITAN\nPOLICE\"",
+      "caption_status": "success",
+      "caption_time": 1.5958144664764404,
+      "image_md5": "3de101f353123752f5b858ed37a1e593"
+    },
+    {
+      "id": "4",
+      "index": "4",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/4.jpg",
+      "prompt": "A current front US 100 dollar bill",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"100  \nFEDERAL RESERVE NOTE  \nKB46279860I  \nB2  \nUNITED STATES  \nFEDERAL RESERVE SYSTEM  \nTHIS NOTE IS LEGAL TENDER  \nFOR ALL DEBTS, PUBLIC AND PRIVATE  \nSeries 2006 A  \nG2  \nFRANKLIN  \nTHE UNITED STATES OF AMERICA  \n100  \nKB46279860I  \nONE HUNDRED DOLLARS\"\n\nA close-up of the front of a U.S. $100 bill featuring Benjamin Franklin.",
+      "caption_status": "success",
+      "caption_time": 3.021963357925415,
+      "image_md5": "212fe250949fd28a70bc167fec724e09"
+    },
+    {
+      "id": "5",
+      "index": "5",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/5.jpg",
+      "prompt": "A Swiss Guard uniform at the Vatican in 2005",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes.",
+      "molmo_generated_caption": "\"\"",
+      "caption_status": "success",
+      "caption_time": 1.3009073734283447,
+      "image_md5": "f65143f63cd119fa80b79541caa3eda4"
+    },
+    {
+      "id": "6",
+      "index": "6",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/6.jpg",
+      "prompt": "A current UK passport cover",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"BRITISH PASSPORT  \nDIEU ET MON DROIT  \nUNITED KINGDOM OF  \nGREAT BRITAIN  \nAND NORTHERN IRELAND\"\n\nA close-up of hands holding a British passport on a light-colored surface.",
+      "caption_status": "success",
+      "caption_time": 1.804358959197998,
+      "image_md5": "032070591b376b47257f6ff331f2d303"
+    },
+    {
+      "id": "7",
+      "index": "7",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/7.jpg",
+      "prompt": "A current pedestrian crossing sign in Germany",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"alamy\"\n\nScene: Two blue pedestrian crossing signs mounted on poles against a clear sky with trees in the background.",
+      "caption_status": "success",
+      "caption_time": 1.8749585151672363,
+      "image_md5": "b119f12d0ff55a8a5c4b47f7165d157a"
+    },
+    {
+      "id": "8",
+      "index": "8",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/8.jpg",
+      "prompt": "A current front 50 euro banknote",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"50\nEURO\nEYP\u03a9\nEBPO\n50\nshutterstock.com \u2022 2487334901\"\n\nScene: A close-up of a 50-euro banknote with architectural artwork and security features visible.",
+      "caption_status": "success",
+      "caption_time": 1.8116295337677002,
+      "image_md5": "f486a6392dd4712112f79d85c5f3eb70"
+    },
+    {
+      "id": "9",
+      "index": "9",
+      "image_path": "/home/coder/passenger/data/culture/selected_images/9.jpg",
+      "prompt": "The front cover of a South Korean passport issued after 2021",
+      "status": "success",
+      "instruction_prompt": "Perform OCR on the text in the image. Output only the text in quotes. And a short description of the scene.",
+      "molmo_generated_caption": "\"\ub300\ud55c\ubbfc\uad6d \uc5ec\uad8c  \nREPUBLIC OF KOREA  \nPASSPORT\"\n\nScene: A close-up of the front cover of a Republic of Korea (South Korea) passport with the national emblem.",
+      "caption_status": "success",
+      "caption_time": 1.5351622104644775,
+      "image_md5": "5a152efbba3de418b863df8bb09ecbe1"
+    }
+  ]
+}

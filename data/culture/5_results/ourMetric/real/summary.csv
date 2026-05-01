@@ -1,0 +1,31 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown,regenerate_prompt,edit_instruction
+1.jpg,1,keep,100.0,100.0,100.0,100.0,11,11,0,0,,
+10.jpg,10,keep,100.0,100.0,100.0,100.0,14,14,0,0,,
+11.jpg,11,edit,75.0,80.0,100.0,84.21,19,16,3,0,,"Show three rear camera lenses on one phone, and do not add any text label"
+12.jpg,12,keep,100.0,100.0,,100.0,9,9,0,0,,
+13.jpg,13,edit,100.0,88.89,100.0,94.44,18,17,1,0,,Add a visible holographic or iridescent anti-counterfeiting patch or strip on the note
+14.jpg,14,keep,100.0,92.86,,95.45,11,10,0,1,,
+15.png,15,keep,100.0,100.0,100.0,100.0,16,16,0,0,,
+16.jpg,16,keep,100.0,100.0,,100.0,9,9,0,0,,
+17.jpg,17,keep,100.0,100.0,,100.0,9,9,0,0,,
+18.png,18,keep,100.0,100.0,100.0,100.0,13,13,0,0,,
+19.jpeg,19,edit,75.0,100.0,,90.0,5,4,0,1,,Show the Paris Metro sign mounted above or near an entrance opening
+2.jpg,2,keep,100.0,100.0,,100.0,8,8,0,0,,
+20.jpg,20,keep,90.0,100.0,100.0,96.15,13,12,0,1,,
+21.webp,21,keep,100.0,100.0,100.0,100.0,11,11,0,0,,
+22.jpg,22,edit,90.0,100.0,,91.67,6,5,0,1,,"Show only the front face of the Indian 500-rupee banknote, with all design elements arranged on a single visible side"
+23.png,23,keep,100.0,100.0,100.0,100.0,12,12,0,0,,
+24.jpg,24,keep,100.0,100.0,,100.0,15,15,0,0,,
+25.jpeg,25,edit,100.0,83.33,100.0,91.67,12,11,1,0,,"Change the gantry sign text from ""EIRP"" to ""ERP"""
+26.jpeg,26,keep,100.0,100.0,100.0,100.0,14,14,0,0,,
+27.jpeg,27,keep,100.0,100.0,,100.0,12,12,0,0,,
+28.jpg,28,keep,100.0,100.0,100.0,100.0,8,8,0,0,,
+29.jpg,29,keep,100.0,100.0,100.0,100.0,13,13,0,0,,
+3.jpg,3,keep,100.0,100.0,,100.0,10,10,0,0,,
+30.jpg,30,keep,100.0,100.0,100.0,100.0,14,14,0,0,,
+4.jpg,4,edit,80.0,92.86,100.0,92.0,25,23,2,0,,Move Benjamin Franklin’s portrait to the left of center and keep the security features on the right
+5.jpg,5,keep,87.5,100.0,100.0,95.45,11,10,0,1,,
+6.jpg,6,keep,100.0,100.0,100.0,100.0,9,9,0,0,,
+7.jpg,7,edit,100.0,90.91,100.0,93.75,16,15,1,0,,Add no written text to the sign face
+8.jpg,8,keep,100.0,100.0,100.0,100.0,17,17,0,0,,
+9.jpg,9,keep,100.0,100.0,100.0,100.0,12,12,0,0,,

@@ -1,0 +1,31 @@
+image_file,index,decision,level_1_score,level_2_score,level_3_score,overall_score,n_total,n_yes,n_no,n_unknown,regenerate_prompt,edit_instruction
+1.jpg,1,edit,80.0,80.0,0.0,72.73,11,8,3,0,,"Replace the English STOP text on the sign face with Japanese stop text, such as '止まれ', and make the sign match the Japanese stop sign design used from 1960 to 1963"
+10.jpg,10,edit,100.0,100.0,50.0,92.86,14,13,1,0,,Replace the license-plate field text with R-355-G
+11.jpg,11,edit,75.0,70.0,80.0,73.68,19,14,5,0,,"Replace the square-like rear camera bump with a wide rounded-rectangle camera bar spanning the upper portion of the phone, and place the flash on the right side of that raised module"
+12.jpg,12,keep,100.0,100.0,,100.0,9,9,0,0,,
+13.jpg,13,edit,81.25,88.89,100.0,86.11,18,15,2,1,,"Change the banknote’s overall color scheme to predominantly yellow/gold, and make the denomination show as 50, 000 won in words"
+14.jpg,14,edit,75.0,28.57,,45.45,11,5,6,0,,"Replace the sign face with a German no-speed-limit sign: a white circular sign with diagonal black stripes across it, and make the circular border black instead of red. Remove the bicycle symbol and the 'Speed-Limit' text"
+15.jpg,15,keep,100.0,100.0,100.0,100.0,16,16,0,0,,
+16.jpg,16,edit,75.0,100.0,,88.89,9,8,1,0,,Replace the Latin letters on the plate with a South Korean-style registration number that includes Arabic numerals and at least one Hangul character
+17.jpg,17,keep,100.0,100.0,,100.0,9,9,0,0,,
+18.jpg,18,edit,80.0,66.67,100.0,76.92,13,10,3,0,,"Change the horizontal bar to red and place the word ""UNDERGROUND"" within it"
+19.jpg,19,edit,100.0,66.67,,80.0,5,4,1,0,,Replace the sign text with the word METROPOLITAIN in stylized lettering
+2.jpg,2,keep,100.0,100.0,,100.0,8,8,0,0,,
+20.jpg,20,edit,80.0,80.0,33.33,69.23,13,9,4,0,,"Change the post box top to black. Add a silver plaque with the letters ""TUE"". Add a black square scanner with a circular lens, and place a silver button to the right of it"
+21.jpg,21,keep,91.67,100.0,100.0,95.45,11,10,0,1,,
+22.jpg,22,keep,100.0,100.0,,100.0,6,6,0,0,,
+23.jpg,23,edit,100.0,80.0,100.0,91.67,12,11,1,0,,"Change the front cover text to include the phrase ""REPUBLIC OF INDIA"""
+24.jpg,24,edit,100.0,90.91,,93.33,15,14,1,0,,Add a visible yellow license plate with Thai text and numbers
+25.jpg,25,edit,100.0,83.33,0.0,83.33,12,9,1,2,,"Add visible 4.5m height restriction signs. Ensure red triangle signs with the letter R flank the ERP display on both sides. Make the digital display clearly read orange ""In Operation"" text"
+26.jpg,26,edit,100.0,57.14,100.0,78.57,14,11,3,0,,"Add the texts ""PASAPORT"", ""REPUBLIC OF TÜRKİYE"", and ""TÜRKİYE CUMHURİYETİ"" to the passport cover"
+27.jpg,27,keep,100.0,100.0,,100.0,12,12,0,0,,
+28.jpg,28,edit,100.0,50.0,100.0,81.25,8,6,1,1,,"Change the back camera module to a vertical module with three lenses. If the back panel is shown, make it blue"
+29.jpg,29,edit,100.0,42.86,50.0,61.54,13,7,4,2,,"Add a visible orange numeric display on the same pedestrian signal head as the upraised hand, using recognizable Arabic digit(s)"
+3.jpg,3,edit,100.0,56.25,,65.0,10,6,3,1,,Add a dark outer body-armor/stab-vest layer with a modern tactical vest appearance
+30.jpg,30,edit,100.0,100.0,66.67,92.86,14,13,1,0,,Add a small portrait in a blue-tinted oval on the left side
+4.jpg,4,edit,50.0,85.71,83.33,78.0,25,19,5,1,,"Edit the bill to show the front side of a current US $100 note: place Benjamin Franklin’s portrait left of center, add the modern security ribbon on the right, include a green US Treasury seal, and make the front text read 'FEDERAL RESERVE NOTE'"
+5.jpg,5,keep,87.5,100.0,100.0,95.45,11,10,0,1,,
+6.jpg,6,edit,100.0,50.0,100.0,77.78,9,7,2,0,,"Add the words ""BRITISH PASSPORT"" and ""UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND"" to the cover text"
+7.jpg,7,edit,50.0,31.82,50.0,37.5,16,4,8,4,,"Change the sign to a blue square with a thin white border, containing a centered white upward-pointing triangle with a black pedestrian pictogram above a black zebra-crossing marking"
+8.jpg,8,keep,100.0,100.0,100.0,100.0,17,17,0,0,,
+9.jpg,9,edit,100.0,100.0,0.0,83.33,12,10,2,0,,"Add the Korean text ""대한민국"" to the cover and replace ""SOUTH KOREA"" with ""REPUBLIC OF KOREA"""
