@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: conference-paper
+title: "FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models"
+authors:
+  - family-names: Lim
+    given-names: Youngsun
+    affiliation: "Boston University"
+  - family-names: Ham
+    given-names: Cusuh
+    affiliation: "Adobe"
+  - family-names: Chen
+    given-names: Pin-Yu
+    affiliation: "IBM Research"
+  - family-names: Ghadiyaram
+    given-names: Deepti
+    affiliation: "Boston University"
+year: 2026
+collection-title: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+notes: "Preprint — citation details will be updated upon publication."
+repository-code: "https://github.com/TODO/FAGER"
+license: MIT

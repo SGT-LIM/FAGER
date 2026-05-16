@@ -1,2 +1,30 @@
 __pycache__/
+*.pyc
 *.log
+
+# Scraped reference images (copyright — regenerate via scripts/download_reference_images.py)
+data/**/2_search_results/saved_images/
+data/**/old_2_Fact_Verification/
+
+# Reference images (download via scripts/download_reference_images.py)
+data/ABO/selected_images/
+data/culture/selected_images/
+
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights / large binaries
+*.pt
+*.safetensors
+*.bin
+
+# Python packaging
+*.egg-info/
+
+# Output directories
+outputs/
+generated_images/
