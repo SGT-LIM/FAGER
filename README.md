@@ -9,7 +9,7 @@
 
 ## Abstract
 
-<!-- TODO: paste abstract from paper -->
+Existing text-to-image (T2I) evaluation metrics mainly assess whether generated images align with information explicitly stated in the prompt, but often fail to capture factual requirements that are implicit, externally grounded, or identity-defining. As a result, they are not well suited for evaluating factual correctness in prompts involving scientific knowledge, historical facts, products, or culture-specific concepts. We propose FActually Grounded Evaluation and Refinement (FAGER), an agentic framework that evaluates whether generated images correctly reflect visually verifiable facts grounded in or implied by the prompt, while also providing actionable feedback for improvement. FAGER first constructs a structured factual rubric by combining LLM-based fact proposal with reference-guided visual fact extraction and verification, then converts the rubric into question—answer pairs for VLM-based evaluation. To validate FAGER as a factuality metric, we introduce a Factual A/B test, which measures whether a metric prefers factual reference images over corresponding generated images. Across five datasets spanning science, history, products, culture, and knowledge-intensive concepts, FAGER consistently outperforms prior metrics on this test. We further show that FAGER can be used to refine T2I outputs in a fully training-free manner, yielding substantial factuality gains across datasets.
 
 ---
 
