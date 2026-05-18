@@ -31,7 +31,7 @@ Existing text-to-image (T2I) evaluation metrics mainly assess whether generated 
 ## Installation
 
 ```bash
-git clone https://github.com/TODO/FAGER.git
+git clone https://github.com/SGT-LIM/FAGER.git
 cd FAGER
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
