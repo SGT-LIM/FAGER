@@ -1,5 +1,6 @@
 # FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.19111-b31b1b.svg)](https://arxiv.org/abs/2605.19111)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
