@@ -21,7 +21,7 @@ EXCLUDE_CSV="data/${DATASET}/exclude_index.csv"
 IMAGE_DIR="data/${DATASET}/selected_images"
 OUT_DIR="runs/demo_${DATASET}"
 
-OPENAI_MODEL="${OPENAI_MODEL:-gpt-4o}"   # override with a reasoning model for best results
+OPENAI_MODEL="${OPENAI_MODEL:-gpt-5.4-mini}"   # must accept reasoning.effort none/high (GPT-5.1 or later)
 
 # Load .env if present
 if [ -f .env ]; then
