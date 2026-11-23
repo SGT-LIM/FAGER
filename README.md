@@ -70,10 +70,10 @@ Run the full pipeline on the ABO benchmark:
 bash scripts/reproduce.sh
 ```
 
-See `scripts/reproduce.sh` for the exact CLI invocations for each step and comments explaining what each step does. Set `OPENAI_MODEL` to override the default model:
+See `scripts/reproduce.sh` for the exact CLI invocations for each step and comments explaining what each step does. Set `OPENAI_MODEL` to override the default model (`gpt-5.4-mini`, which the paper uses for steps 1, 3 and 4). Pick a model that accepts `reasoning.effort` values `none` and `high` (GPT-5.1 or later): every OpenAI step sends that parameter, and models such as `gpt-4o` reject it with HTTP 400. The scripts catch that error and carry on, so step 4 writes no questions and step 5 scores every answer as unknown.
 
 ```bash
-OPENAI_MODEL=gpt-4o bash scripts/reproduce.sh
+OPENAI_MODEL=gpt-5.2 bash scripts/reproduce.sh
 ```
 
 ---
@@ -88,7 +88,7 @@ Calls an OpenAI reasoning model to extract a structured factual rubric from each
 python fager/step1_fact_proposal.py \
   --in_csv  data/ABO/prompts.csv \
   --out_csv runs/step1_proposals.csv \
-  --model   gpt-4o \
+  --model   gpt-5.4-mini \
   --reasoning_effort high
 ```
 
@@ -114,7 +114,7 @@ python fager/step3_verification.py \
   --in_agent1 runs/step1_proposals.csv \
   --in_agent2 runs/step2_vlm.jsonl \
   --out_jsonl runs/step3_verified.jsonl \
-  --model     gpt-4o \
+  --model     gpt-5.4-mini \
   --resume
 ```
 
@@ -126,7 +126,7 @@ Converts each fact in the verified rubric into an atomic yes/no/unknown question
 python fager/step4_qa_generation.py \
   --in_jsonl  runs/step3_verified.jsonl \
   --out_csv   runs/step4_QA.csv \
-  --model     gpt-4o
+  --model     gpt-5.4-mini
 ```
 
 The pre-generated QA benchmarks for ABO and culture are in `data/ABO/QA.csv` and `data/culture/QA.csv`.
@@ -148,7 +148,7 @@ python fager/step5_eval_openai.py \
   --qa_csv    data/ABO/QA.csv \
   --image_dir /path/to/generated_images \
   --out_dir   runs/step5_eval \
-  --model     gpt-4o
+  --model     gpt-5.4-mini
 ```
 
 Outputs: `summary.csv` (one row per image) and `details.jsonl` (per-question answers).
